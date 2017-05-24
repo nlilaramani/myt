@@ -1,0 +1,1 @@
+This is a first file in myproject that I want to manage using git version control.
